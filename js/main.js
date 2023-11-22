@@ -46,7 +46,7 @@ const context = canvas.getContext("2d");
 
 const frameCount = 1019;
 const currentFrame = index => (
-  `../assets/video/frame_${index.toString()}.jpg`
+  `./assets/video/frame_${index.toString()}.jpg`
 )
 console.log(currentFrame);
 
