@@ -35,19 +35,19 @@ body {
   display: none;
 }
 #banner_0 {
-  background-image: url(/assets/banner/1.png);
+  background-image: url(../assets/banner/1.png);
 }
 #banner_1 {
-  background-image: url(/assets/banner/2.png);
+  background-image: url(../assets/banner/2.png);
 }
 #banner_2 {
-  background-image: url(/assets/banner/3.png);
+  background-image: url(../assets/banner/3.png);
 }
 #banner_3 {
-  background-image: url(/assets/banner/4.png);
+  background-image: url(../assets/banner/4.png);
 }
 #banner_4 {
-  background-image: url(/assets/banner/5.png);
+  background-image: url(../assets/banner/5.png);
 }
 #banner_5 {
   background: rgb(122,205,243);
