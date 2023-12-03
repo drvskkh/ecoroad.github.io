@@ -1,0 +1,40 @@
+@media all and (orientation:portrait) {
+    .bottle_container {
+        padding-top: 50px;
+      flex-direction: column;
+    }
+    h1 {
+        font-size: 4vh;
+        font-family: Montserrat;
+        font-weight: 700;
+        color: #7ACDF3;
+      }
+      h2 {
+        font-size: 2vh;
+        font-family: Montserrat;
+        font-weight: 400;
+        color: #373E4E;
+      }
+      .bottle_text {
+        width: 70vw;
+      }
+      .bottle_img {
+        margin-top: 40px;
+        margin-left: 0px;
+        width: 50vw;
+      }
+      .bottle {
+        height: 200vh;
+
+      }
+
+      #c1 {
+        margin-top: 1100vh;
+      }
+      #c2 {
+        margin-top: 500vh;
+      }
+      #c3 {
+        margin-top: 300vh;
+      }
+  }
